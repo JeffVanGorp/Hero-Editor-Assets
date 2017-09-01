@@ -18,7 +18,6 @@ If you have an item that you modified using Hero Editor, you can right-click tha
 
 * [Kingpint'z Item Pack FINAL](http://modsreloaded.com/kingpintz-item-pack) - Basis for the majority of the items. - *12/24/2005*
 * [Hero Editor V1.04](http://www.moddb.com/games/diablo-2-lod/downloads/hero-editor-v-104) - Program for modification of Diablo 2 character and item files. - **
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
